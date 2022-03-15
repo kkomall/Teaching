@@ -1,4 +1,4 @@
-public class SwapNumbers {
+public class second {
 
     public static void main(String[] args) {
 
@@ -17,7 +17,7 @@ public class SwapNumbers {
         // Value of temporary (which contains the initial value of first) is assigned to second
         second = temporary;
 
-        System.out.println("--After swap--");
+        System.out.println("--After swap I want to print--");
         System.out.println("First number = " + first);
         System.out.println("Second number = " + second);
 
